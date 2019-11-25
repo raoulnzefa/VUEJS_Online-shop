@@ -1,0 +1,69 @@
+{
+    "posts": {
+        "s8": 
+            
+                
+                {
+                    "productName": "s8",
+                    "productTitle":"Samsung S8",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":1
+                }
+            ,
+        "a8":        
+            
+                {
+                    "productName": "a8",
+                    "productTitle":"Samsung A8",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":2
+                }
+            ,
+        "a7":        {
+                    "productName": "a7",
+                    "productTitle":"Samsung A7",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+        "a6":            {
+                    "productName": "a6",
+                    "productTitle":"Samsung A6",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+        "a5":        {
+                    "productName": "a5",
+                    "productTitle":"Samsung A5",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":5
+                },
+        "a3":                {
+                    "productName": "a3",
+                    "productTitle":"Samsung A3",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":6
+                },
+        "j7":        {
+                    "productName": "j7",
+                    "productTitle":"Samsung J7",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":7
+                },
+        "j5":        {
+                    "productName": "j5",
+                    "productTitle":"Samsung J5",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":8
+                },
+        "j2": 
+            {
+                    "productName": "j2",
+                    "productTitle":"Samsung J2",
+                    "image"       : "../static/images/slider/s1.jpg",
+                    "productId":9
+            }
+        
+    }
+        
+    
+}

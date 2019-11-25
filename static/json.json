@@ -1,0 +1,669 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Home",
+            "path": "/"
+        },
+        {
+            "id": 2,
+            "name": "Products",
+            "path": "/products"
+        },
+        {
+            "id": 3,
+            "name": "All Products",
+            "path": "/allproducts"
+        },
+        {
+            "id": 4,
+            "name": "Contact Us",
+            "path": "/contactus"
+        },
+        {
+            "id": 5,
+            "name": "About",
+            "path": "/about"
+        }
+    ],
+    "sliders": [
+        {
+            "imagelink": "../../static/images/slider/s1.jpg"
+        },
+        {
+            "imagelink": "../../static/images/slider/s1.jpg"
+        },
+        {
+            "imagelink": "../../static/images/slider/s1.jpg"
+        }
+    ],
+    "categories": [
+        
+        {
+            "categoryId": 1,
+            "cat_title": "Accessories",
+            "cat_name": "accessories",
+            "cat_images": "../../static/images/slider/s1.jpg",
+            "cat_url": "",
+            "props": true
+        },
+        {
+            "categoryId": 2,
+            "cat_title": "Phones",
+            "cat_name": "phones",
+            "cat_images": "../../static/images/slider/s1.jpg",
+            "cat_url": ""
+        },
+        {
+            "categoryId": 3,
+            "cat_title": "Tablets",
+            "cat_name": "tablets",
+            "cat_images": "../../static/images/slider/s1.jpg",
+            "cat_url": ""
+        },
+        {
+            "categoryId": 4,
+            "cat_title": "Notbooks",
+            "cat_name": "notbooks",
+            "cat_images": "../../static/images/slider/s1.jpg",
+            "cat_url": ""
+        },
+        {
+            "categoryId": 5,
+            "cat_title": "Computers",
+            "cat_name": "computers",
+            "cat_images": "../../static/images/slider/s1.jpg",
+            "cat_url": ""
+        }
+    ],
+    "products": {
+        "accessories": 
+            [
+                
+                {
+                    "prod_name": "phoneaccessories",
+                    "productTitle":"Phone accessories",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "prod_name": "tabletaccessories",
+                    "productTitle":"Tablet accessories",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "prod_name": "notbookaccessories",
+                    "productTitle":"Notbook accessories",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "prod_name": "computeraccessories",
+                    "productTitle":"Computer accessories",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "prod_name": "others",
+                    "productTitle":"Other",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "phones": 
+            [
+                {
+                    "prod_name": "samsung",
+                    "productTitle":"Samsung",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "prod_name": "iphone",
+                    "productTitle":"Iphone",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "prod_name": "nokia",
+                    "productTitle":"Nokia",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "prod_name": "ipro",
+                    "productTitle":"IPRO",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "prod_name": "meizu",
+                    "productTitle":"meizu",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "tablets": 
+            [
+                {
+                    "prod_name": "samsung",
+                    "productTitle":"tablets1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "prod_name": "iphone",
+                    "productTitle":"tablets2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "prod_name": "nokia",
+                    "productTitle":"tablets3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "prod_name": "ipro",
+                    "productTitle":"tablets4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "prod_name": "meizu",
+                    "productTitle":"tablets5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "notbooks": 
+            [
+                {
+                    "prod_name": "notbooks1",
+                    "productTitle":"notbooks1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "prod_name": "notbooks2",
+                    "productTitle":"notbooks2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "prod_name": "notbooks3",
+                    "productTitle":"notbooks3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "prod_name": "notbooks4",
+                    "productTitle":"notbooks4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "prod_name": "notbooks5",
+                    "productTitle":"notbooks5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "computers": 
+            [
+                {
+                    "prod_name": "computers1",
+                    "productTitle":"computers1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "prod_name": "computers2",
+                    "productTitle":"computers2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "prod_name": "computers2",
+                    "productTitle":"computers3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "prod_name": "computers4",
+                    "productTitle":"computers4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "prod_name": "computers5",
+                    "productTitle":"computers5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ]
+  
+    },
+    "productcategories": {
+        "phoneaccessories": 
+            [
+                
+                {
+                    "productName": "samsung",
+                    "productTitle":"Samsung",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "nokia",
+                    "productTitle":"Nokia",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "ipro",
+                    "productTitle":"IPro",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "meziu",
+                    "productTitle":"Meziu",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "tabletaccessories": 
+            [
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone 6",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone 8",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone X",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone X pro",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone 8 s",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "notbookaccessories": 
+            [
+                {
+                    "productName": "samsung",
+                    "productTitle":"Samsung",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Iphone",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Nokia",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"IPRO",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"meizu",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "computeraccessories": 
+            [
+                {
+                    "productName": "samsung",
+                    "productTitle":"LG",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Apple",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Nokia",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"IPRO",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"meizu",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                } 
+            ],
+        "others": 
+            [
+                {
+                    "productName": "samsung",
+                    "productTitle":"Samsung",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Iphone",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"Nokia",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"IPRO",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"meizu",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                }
+            ],
+        "samsung":
+            [
+                {
+                    "productName": "s8",
+                    "productTitle":"Samsung S8",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "a8",
+                    "productTitle":"Samsung A8",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "a7",
+                    "productTitle":"Samsung A7",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "a6",
+                    "productTitle":"Samsung A6",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "a5",
+                    "productTitle":"Samsung A5",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "a3",
+                    "productTitle":"Samsung A3",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "j7",
+                    "productTitle":"Samsung J7",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "j5",
+                    "productTitle":"Samsung J5",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "j2",
+                    "productTitle":"Samsung J2",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                } 
+            ],
+        "iphone":
+            [
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "iphone",
+                    "productTitle":"Iphone5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                }
+            ],
+        "nokia":
+            [
+                {
+                    "productName": "nokia",
+                    "productTitle":"nokia1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "nokia",
+                    "productTitle":"noki2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "nokia",
+                    "productTitle":"nokia3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "nokia",
+                    "productTitle":"nokia4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "nokia",
+                    "productTitle":"nokia5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                }
+            ],
+        "ipro":
+            [
+                {
+                    "productName": "ipro",
+                    "productTitle":"ipro1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "ipro",
+                    "productTitle":"ipro2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "ipro",
+                    "productTitle":"ipro3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "ipro",
+                    "productTitle":"ipro4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "ipro",
+                    "productTitle":"ipro5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                }
+            ],
+        "meizu":
+            [
+                {
+                    "productName": "meizu",
+                    "productTitle":"meziu1",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":1
+                },
+                {
+                    "productName": "meizu",
+                    "productTitle":"meziu2",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":2
+                },
+                {
+                    "productName": "samsung",
+                    "productTitle":"meziu3",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":3
+                },
+                {
+                    "productName": "meizu",
+                    "productTitle":"meziu4",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":4
+                },
+                {
+                    "productName": "meizu",
+                    "productTitle":"meziu5",
+                    "image"       : "../../static/images/slider/s1.jpg",
+                    "productId":5
+                }
+            ]
+    },
+    "posts": {
+        "s8": 
+            [
+                
+                {
+                    "productName": "s8",
+                    "productTitle":"Samsung S8",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }
+            ],
+        "a8":        
+            [
+                {
+                    "productName": "samsunga8",
+                    "productTitle":"Samsung A8",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }
+            ],
+        "a7":        [{
+                    "productName": "samsunga7",
+                    "productTitle":"Samsung A7",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "a6":            [{
+                    "productName": "samsunga6",
+                    "productTitle":"Samsung A6",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "a5":        [{
+                    "productName": "samsunga5",
+                    "productTitle":"Samsung A5",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "a3":                [{
+                    "productName": "samsunga3",
+                    "productTitle":"Samsung A3",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "j7":        [{
+                    "productName": "samsungj7",
+                    "productTitle":"Samsung J7",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "j5":        [{
+                    "productName": "samsungj5",
+                    "productTitle":"Samsung J5",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }],
+        "j2":        [{
+                    "productName": "samsungj2",
+                    "productTitle":"Samsung J2",
+                    "image"       : "../../../static/images/slider/s1.jpg",
+                    "productId":1
+                }] 
+                  
+    }
+}
